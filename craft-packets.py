@@ -1,3 +1,6 @@
+import scapy
+from scapy.all import *
+
 # Creating packet
 p = IP()
 
@@ -27,4 +30,4 @@ p.payload.flags=18
 p.show()
 # You will notice the flags will change to SA
 
-
+send(p)
