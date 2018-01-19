@@ -6,6 +6,7 @@ Created on Thu Dec 14 21:18:47 2017
 @author: mcarvalho
 """
 
+import sys
 import scapy
 from scapy.all import *
 
@@ -19,7 +20,16 @@ def detectSYN(filename):
         if p["TCP"].flags == 2L:
             syn += 1
         
-    print syn
-    print (len(pkts_list))
+    print '# of Packets in this pcapfile: ', len(pkts_list)
+    print 'TCP packets: ', syn
 
+def Main(filename):
+    syn = detectSYN(filename)
 
+if __name__== "__main__":
+
+    if len(sys.argv) < 2:
+        print 'Please provide file name'
+    else:
+        filename = sys.argv[1]
+        Main(filename)
