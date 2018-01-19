@@ -1,4 +1,4 @@
-# learnITgirl
+# Project Learn IT, Girl - 3rd Edition
 This project was developed by me, with my mentor orientation, for the program Learn IT, Girl - 3rd Edition.
 
 The objective of this project is to bring interest from girls and boys who are interested in learning more
