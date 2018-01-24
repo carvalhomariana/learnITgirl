@@ -10,12 +10,13 @@ The tools to developed this project was:
 3. WireShark - open source tool to record ana analyze network traffic
 4. GitHub
 
-This project was developed with a education purpose, and it is a recreation of other codes,
-in order to facilitate the learning for its users.
+This project was developed for a education purpose, and it is a modification of other source codes,
+in order to facilitate the learning for its users. The codes presented on my project Learn IT, Girl
+were modifed to adapt for the project's needs. The source codes are:
 1. https://github.com/AllGloryToTheHypnotoad/Black-Hat-Python/blob/master/BHP-Code/Chapter4/pic_carver.py
 2. http://bt3gl.github.io/black-hat-python-infinite-possibilities-with-the-scapy-module.html
 
 I would like to say thank you to my mentor, Karla Saur, and all the Learn IT, Girl team for the support,
-and for bringing this program for me and for many other girls,.
+and for bringing this program for me and for many other girls.
 
 
