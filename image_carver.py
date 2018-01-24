@@ -5,10 +5,26 @@ Created on Thu Dec 28 22:49:00 2017
 
 @author: mcarvalho
 
-Source code: https://github.com/AllGloryToTheHypnotoad/Black-Hat-Python/blob/master/BHP-Code/Chapter4/pic_carver.py
+Read "README.dm" file for more explanation about this code "image_carver.py" source code.
 
-Source code: http://bt3gl.github.io/black-hat-python-infinite-possibilities-with-the-scapy-module.html
+This Python Code "image_carver.py" was created to extract images from unsecure websites,
+such as DailyMail.co.uk, Telegraph.co.uk, globo.com, alibaba.com, among others.
+
+To start playing with this code is mandatory that you have a pcap file in
+order to make it run.
+
+Run this code with:
+    python image_carver.py filename.pcap
+    
+On my files you will find an example of two pcap files, so you can try using them.
+
+To record a pcap file, I used WireShark.
+
+"image_carver.py" has a function called "face_detect" that was not used for this project.
+I kept the function so I can develop it in the future, or you can play around with it.
+
 """
+
 import re
 import sys
 import cv2
