@@ -4,7 +4,7 @@ This project was developed by me, with my mentor orientation, for the program Le
 The objective of this project is to bring interest from girls and boys who are interested in learning more
 about network, cybersecurity, and also learn a new programming language - in this case, Python.
 
-The tools to developed this project was:
+The tools used to develop this project were:
 1. Python - Programming Language
 2. Scapy - Python Library
 3. WireShark - open source tool to record ana analyze network traffic
@@ -12,7 +12,7 @@ The tools to developed this project was:
 
 This project was developed for a education purpose, and it is a modification of other source codes,
 in order to facilitate the learning for its users. The codes presented on my project Learn IT, Girl
-were modifed to adapt for the project's needs. The source codes are:
+were modifed to adapt the project's needs. The source codes are:
 1. https://github.com/AllGloryToTheHypnotoad/Black-Hat-Python/blob/master/BHP-Code/Chapter4/pic_carver.py
 2. http://bt3gl.github.io/black-hat-python-infinite-possibilities-with-the-scapy-module.html
 
