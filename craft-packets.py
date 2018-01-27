@@ -10,6 +10,13 @@ This is a simple code for some functions that you can play around using Scapy.
 Source Explanation: https://github.com/secdev/scapy
 Documentation of Scapy: http://scapy.readthedocs.io/en/latest/installation.html#windows
 
+On my computer, macOS High Sierra, I was unable to run it on Python Notebook, for instance,
+so to start, I ran these line on the terminal as it follows:
+    $ sudo python
+    $ *insert password*
+    $ import scapy
+    $ from scapy.all import *
+
 """
 
 
