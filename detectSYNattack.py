@@ -22,6 +22,9 @@ You will find an example of a pcap file that has an SYN Flood attack: synflood.p
 You will find two more examples of a pcap file that don't contain any attack:
 jsu.pcap and dailymail.pcap. You can use both of them to compare.
 
+Run this code with:
+    python detectSYNattack.py filename.pcap
+
 """
 
 # Import libraries
