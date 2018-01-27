@@ -1,3 +1,18 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Nov 16  21:40:47 2017
+
+@author: mcarvalho
+
+This is a simple code for some functions that you can play around using Scapy.
+
+Source Explanation: https://github.com/secdev/scapy
+Documentation of Scapy: http://scapy.readthedocs.io/en/latest/installation.html#windows
+
+"""
+
+
 import scapy
 from scapy.all import *
 
