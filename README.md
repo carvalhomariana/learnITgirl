@@ -10,6 +10,9 @@ The tools used to develop this project were:
 3. WireShark - open source tool to record ana analyze network traffic
 4. GitHub
 
+#### To learn how to install Scapy, you can verify:
+1. About Scapy: https://github.com/secdev/scapy
+2. Documentation: http://scapy.readthedocs.io/en/latest/installation.html#windows
 This project was developed for a education purpose, and it is a modification of other source codes,
 in order to facilitate the learning for its users. The codes presented on my project Learn IT, Girl
 were modifed to adapt the project's needs. The source codes are:
