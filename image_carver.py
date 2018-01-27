@@ -17,8 +17,10 @@ Run this code with:
     python image_carver.py filename.pcap
     
 On my files you will find an example of two pcap files, so you can try using them.
-
 To record a pcap file, I used WireShark.
+
+You can always record your own traffic using WireShark.
+Remember that this Python file only is useful for unsecure websites (http instead of https)
 
 "image_carver.py" has a function called "face_detect" that was not used for this project.
 I kept the function so I can develop it in the future, or you can play around with it.
