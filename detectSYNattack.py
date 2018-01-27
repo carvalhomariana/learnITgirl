@@ -18,6 +18,10 @@ rendering ineffective its normal network traffic.
 
 You should create your pcap file, in order to analyze its packets.
 
+You will find an example of a pcap file that has an SYN Flood attack: synflood.pcap.
+You will find two more examples of a pcap file that don't contain any attack:
+jsu.pcap and dailymail.pcap. You can use both of them to compare.
+
 """
 
 # Import libraries
